@@ -10,6 +10,10 @@ body{
 	font-family: Verdana, Arial, sans-serif, serif;
 	display: inline-block;
 }
+a{
+	color:white;
+	text-decoration:none;
+}
 hr{
 	height: 1px;
 	margin: 0px;
@@ -71,7 +75,6 @@ infoButton{
 	border: 1px black solid;
 	padding: 12px;
 	font-weight: bold;
-	text-transform: uppercase;
 	display:block;
 }
 #siteHeader{
